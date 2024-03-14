@@ -10,7 +10,7 @@
 <h2 align="left">About me</h2>
 
 ###
-My main focus these days is developing complex full-stack web apps and exploring new web technologies. I'm open to any any opportunity to collaborate. 
+👋 Hi there! I love building complex web apps and exploring new tech. Currently, I'm looking for cool projects to collaborate on. Let's create something amazing together! 🚀
 
 <b>Skills:</b> HTML / CSS / Tailwind / BootStrap / JavaScrip / REACT / Material UI / Next.js / Redux
 
