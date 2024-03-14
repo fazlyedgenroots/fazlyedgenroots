@@ -3,16 +3,16 @@
 #### A passionate REACT developer from Bangladesh
 ![](https://komarev.com/ghpvc/?username=fazlyalahiru&color=f878cd)
 
-![A passionate REACT developer from Bangladesh](https://i.ibb.co/xjy3qxP/Welcome-to-Fazly-Alahi-s-Git-Hub-profile-2.png)
+![A passionate Front-end developer from Bangladesh](https://i.ibb.co/xjy3qxP/Welcome-to-Fazly-Alahi-s-Git-Hub-profile-2.png)
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-My main focus these days is developing complex full-stack web apps and exploring new web technologies. Also, as a fresh developer, I'm looking for an opportunity to join a dynamic team to push my capacity and utilize my skills.
+My main focus these days is developing complex full-stack web apps and exploring new web technologies. I'm open to any any opportunity to collaborate. 
 
-<b>Skills:</b> HTML / CSS / Tailwind / BootStrap / JavaScrip / REACT / Node.js / MongoDB / Express.js
+<b>Skills:</b> HTML / CSS / Tailwind / BootStrap / JavaScrip / REACT / Material UI / Next.js / Redux
 
 <p align="left">✨ Creating bugs since 2020<br>🌱 I'm currently learning Next.js<br>🎲 I have deep interest in global pollitics</p>
 
@@ -36,13 +36,11 @@ My main focus these days is developing complex full-stack web apps and exploring
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=mui" height="30" alt="mui logo"  /> 
 
 
 
