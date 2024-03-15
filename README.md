@@ -34,6 +34,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="javascript logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
