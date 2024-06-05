@@ -12,7 +12,7 @@
 ###
 👋 Hi there! I love building complex web apps and exploring new tech. Currently, I'm looking for cool projects to collaborate on. Let's create something amazing together! 🚀
 
-<b>Skills:</b> HTML / CSS / Tailwind / BootStrap / JavaScrip / TypeScript / REACT / Material UI / Next.js / Redux
+<b>Skills:</b> HTML / CSS / Tailwind / BootStrap / JavaScript / TypeScript / REACT / Material UI / Next.js / Redux
 
 <p align="left">✨ Creating bugs since 2020<br>🌱 I'm currently learning Next.js<br>🎲 I have deep interest in global pollitics</p>
 
